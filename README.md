@@ -10,6 +10,8 @@ Proyecto desarrollado en flutter para aprender patron provider y hacer peticione
 
 ![como-ejecutar](https://user-images.githubusercontent.com/108855218/178037042-250718c3-8fb9-43fa-be20-8db30b67f2dd.png)
 ***
+- La aplicación esta hecha para ejecutarse dentro de dispositivos moviles pero puedes ver una pequeña demo aqui: https://peliculas-app-rpdv0n.netlify.app
+***
 
 # Algunas imagenes de la aplicación:
 ***
