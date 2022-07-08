@@ -5,7 +5,7 @@ Proyecto desarrollado en flutter para aprender patron provider y hacer peticione
 # Como ejecutar el proyecto:
 
 - Debes clonar el repositorio y tener instalado flutter.
-- del proyecto en tu terminal ejecutar el comando flutter pub get para poder instalar todas las dependencias del proyecto.
+- Una vez estes en proyecto en tu terminal ejecutar el comando flutter pub get para poder instalar todas las dependencias del proyecto.
 ***
 
 ![como-ejecutar](https://user-images.githubusercontent.com/108855218/178037042-250718c3-8fb9-43fa-be20-8db30b67f2dd.png)
