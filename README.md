@@ -1,16 +1,18 @@
-# peliculasapp
+# Peliculasapp
+***
+Proyecto desarrollado en flutter para aprender patron provider y hacer peticiones a apis.
+***
+# Como ejecutar el proyecto:
 
-A new Flutter project.
+- Debes clonar el repositorio y tener instalado flutter.
+- del proyecto en tu terminal ejecutar el comando flutter pub get para poder instalar todas las dependencias del proyecto.
+***
 
-## Getting Started
+![como-ejecutar](https://user-images.githubusercontent.com/108855218/178037042-250718c3-8fb9-43fa-be20-8db30b67f2dd.png)
+***
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Algunas imagenes de la aplicación:
+***
+![WhatsApp Image 2022-07-08 at 11 50 37 AM](https://user-images.githubusercontent.com/108855218/178037120-fe38ca84-4cac-4931-91d8-cf6f6baa66a5.jpeg)
+![WhatsApp Image 2022-07-08 at 11 50 36 AM](https://user-images.githubusercontent.com/108855218/178037138-e04f6bc1-211b-4ef6-85fb-b75af48c6e7c.jpeg)
+![WhatsApp Image 2022-07-08 at 11 52 14 AM](https://user-images.githubusercontent.com/108855218/178037149-eeec111f-ed02-4dfe-872b-32992c0f8251.jpeg)
